@@ -1,2 +1,2 @@
 # Seriation
-Ceramic and nail seriation
+Ceramic and nail frequency seriation
